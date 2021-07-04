@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Shao-sung",
+      "mobile": "9866320410",
+      "address": "2/1 Arundelpaet guntur"
+    },
+    {
+      "name": "men",
+      "mobile": "456321",
+      "address": "asfadnanndwlnln",
+      "id": 2
+    },
+    {
+      "name": "Riyaz Ahmed",
+      "mobile": "45623107415",
+      "address": "2/1 Rajipet Ahmedabad",
+      "id": 3
+    } 
+       ] 
+}
